@@ -13,9 +13,9 @@
 - Programming Languages &nbsp;
 
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-  ![C#](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-  ![C#](https://img.shields.io/badge/Matlab-14354C?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-14354C?style=for-the-badge&logo=python&logoColor=white)
+  ![C#](https://img.shields.io/badge/C#-14354C?style=for-the-badge&logo=python&logoColor=white)
+  ![Matlab](https://img.shields.io/badge/Matlab-14354C?style=for-the-badge&logo=python&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
