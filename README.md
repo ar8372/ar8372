@@ -4,7 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/ar8372.svg?style=social&label=Followers)](https://github.com/ar8372?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2330F73B&duration=10000&width=800&height=75&lines=Hi+I'm+Aman;I'm+a+CSE+Pre-Final+Yearite+at+IIITVadodara;I'm+also+a+Machine+Learning+Enthusiast+and+a+Kaggle+2x+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2330F73B&duration=10000&width=800&height=75&lines=Hi+I'm+Aman Raj;I'm+a+CSE+Pre-Final+Yearite+at+IIITVadodara;I'm+also+a+Machine+Learning+Enthusiast+and+a+Kaggle+2x+Expert)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=ar8372&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
@@ -14,7 +14,7 @@
 
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-14354C?style=for-the-badge&logo=python&logoColor=white)
-  ![C#](https://img.shields.io/badge/C#-14354C?style=for-the-badge&logo=python&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=python&logoColor=white)
   ![Matlab](https://img.shields.io/badge/Matlab-14354C?style=for-the-badge&logo=python&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -39,7 +39,7 @@
   ![Matplotlib](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
   ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Unity-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+  ![Unity](https://img.shields.io/badge/-100000?style=for-the-badge&logo=pandas&logoColor=white)
   ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 <h3> Kaggle Stats 
