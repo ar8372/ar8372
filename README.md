@@ -37,7 +37,7 @@
   ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
   ![Seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge&logo=seaborn&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=matplotlib&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/matplotlib-2C2D72?style=for-the-badge&logo=matplotlib&logoColor=white)
   ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
   ![Unity](https://img.shields.io/badge/-100000?style=for-the-badge&logo=Unity&logoColor=white)
   ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
