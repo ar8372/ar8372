@@ -2,11 +2,10 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/ar8372/count.svg)
 
-[![GitHub followers](https://img.shields.io/github/followers/ar8372.svg?style=social&label=Followers)](https://github.com/ar8372?tab=followers)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2330F73B&duration=10000&width=800&height=75&lines=Hi+I'm+Aman+Raj.;I'm+a+CSE+Pre-Final+Yearite+at+IIITVadodara.;I'm+also+a+Machine+Learning+Enthusiast+and+Kaggle+3x+Expert.)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=ar8372&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -52,6 +51,8 @@
 </p>
   
 <!--
+<img src="https://komarev.com/ghpvc/?username=ar8372&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+
 **ar8372/ar8372** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
