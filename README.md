@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2330F73B&duration=10000&width=800&height=75&lines=Hi+I'm+Aman+Raj.;I'm+a+CSE+Pre-Final+Yearite+at+IIITVadodara.;I'm+also+a+Machine+Learning+Enthusiast+and+Kaggle+3x+Expert.)](https://git.io/typing-svg)
 
-- 🔭 I am currently working on : Winning Medal in Kaggle Compeition tier
+- 🔭 I am currently working on : Winning Medal in Kaggle Competition tier
 - 🌱 I’m currently learning Reinforcement Learning
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read thriller and mystery novels
