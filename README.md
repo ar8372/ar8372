@@ -7,7 +7,7 @@
 
 - 🔭 I am currently working on : Winning Medal in Kaggle Competition tier
 - 🌱 I’m currently learning Reinforcement Learning
-- 🥅 2022 Goals: Do reseach in ML+RL domain
+- 🥅 2022 Goals: Do research in ML+RL domain
 - ⚡ Fun fact: I love to read thriller and mystery novels
 - 🤔 I’m looking for help with Julia Language
 - 💬 Ask me about TensorFlow2.x, PyTorch
